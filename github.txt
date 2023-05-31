@@ -1,0 +1,16 @@
+INTRO TO GIT AND GITHUB
+'Git Started with GitHub' taught Git. 
+Git and its uses are explained first. Linux-based large-scale distributed source control system. Git manages REPOSITORY files.
+Git's phases:
+All-projects working directory. Git-based or not.
+Staging (Pre-commit) 
+Git repository (Commit) projects are included.
+Remote Storage
+The workflow was examined.
+We created browser and repository accounts after installation. 
+Basic codes begin.
+Pwd-displaying user, Mkdir-displaying project, cd-accessing project
+We used git clone to clone our repository locally.
+The Echo command created a new repository file, add added it to the staging area, git status, and other concepts.
+We uploaded the file to GitHub over brthe owser.
+
