@@ -1,0 +1,1 @@
+It was a little easy to learn when compared to other as it i=was somewhat similar to the git bash. It mentioned how file name doesnt matter but permission does. Explained different commands like rwx, cat, #!=shebang, chmod +x day1.sh(added executable permissions) etc. learned variables, importance of capitalization, use of comments etc.
