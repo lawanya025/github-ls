@@ -1,1 +1,0 @@
-A detailed video of The Python Course. It included various commands, Three new projects were taugth which included excel automation, jupyter and django. Facing a little issue with django as my software is not automatically installing some files which were to be installed as described in the video. working on it
